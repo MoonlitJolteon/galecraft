@@ -31,6 +31,11 @@ hash = "c514f491ac1d393df5bcdbefef1d91a4e96c4e5cea74f78d1e8d9bf9e43dd966"
 metafile = true
 
 [[files]]
+file = "mods/architects-palette.pw.toml"
+hash = "ea0e1047f953916c926acb92182c550ddfb93d1ac67b490a0d6b3f4627ba80aa"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
 metafile = true
@@ -351,6 +356,11 @@ hash = "d96ffbfb771b81f3c66e67f10479e27b43896b070ef3e78d5e3f8a6c6f3085cf"
 metafile = true
 
 [[files]]
+file = "mods/lodestone.pw.toml"
+hash = "a238be3570123acec1a7dc1e98dac37aec1d95f9c436e8cf35afc7f6a3c27b57"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "3ce0ee2fd738c392ec888583533d0e35b808c6838ccc01a3e7c0068dffcd267b"
 metafile = true
@@ -358,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "a4ff567d52fe55984cc0cb93430a4c8f01dc00b14fbd6e25a077dbd179f534fb"
+metafile = true
+
+[[files]]
+file = "mods/malum.pw.toml"
+hash = "bd0c25c86b22b320e148e3571927976888fd3dc3a592d0783a74e06f736df8ae"
 metafile = true
 
 [[files]]
