@@ -376,6 +376,11 @@ hash = "a57155e174f160d0cb42c8e10eb648b05865d70a79496a4024111d2a506325ca"
 metafile = true
 
 [[files]]
+file = "mods/nightlights.pw.toml"
+hash = "885e7c155684fb5f46ce80c2b423c6b8fff88d15b37e1a6df36395182e139f63"
+metafile = true
+
+[[files]]
 file = "mods/occultism.pw.toml"
 hash = "31f7da97be5de88a7001df9443c65ed2761a16929dbf923a8bc8c41277df757a"
 metafile = true
@@ -548,9 +553,4 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "d0a8b2b9ba78bc8171e96ac4bf0ee800fff6bc326c8b5e582e9d36d19d845e1c"
-metafile = true
-
-[[files]]
-file = "nightlights.pw.toml"
-hash = "15ee594914c6c08a47d52fd772672c3546900b6070d3869ee23001e7231ef4e6"
 metafile = true
