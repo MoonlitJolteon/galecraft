@@ -56,6 +56,11 @@ hash = "5f9028a086ba59db8dba678c6144d87980856c8ce35379cc976084b8df25f58f"
 metafile = true
 
 [[files]]
+file = "mods/blueprint.pw.toml"
+hash = "f7574bbc725128a0fa6a44c959c67d706d2279ed442dfedf2d135fd955e5ca6b"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "1c6c8139bf2e1926070fab667eca7bfdf71898515ef4447487c6d7755d0f7382"
 metafile = true
