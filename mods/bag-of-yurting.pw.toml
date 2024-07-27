@@ -1,0 +1,13 @@
+name = "Bag of Yurting"
+filename = "bagofyurting-1.20.1-4.0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4ace4a800e55a25d2cba23feb1a584c289e5ef65"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4708459
+project-id = 381068

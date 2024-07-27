@@ -1,0 +1,13 @@
+name = "Pet Shop"
+filename = "petshop-forge-1.20.1-0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "42bb175c3de181c97c06474d346d42f314ab49a9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5035306
+project-id = 958623

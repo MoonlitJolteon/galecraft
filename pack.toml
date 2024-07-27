@@ -1,0 +1,16 @@
+name = "snugglepile"
+author = "Gale"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c132034e5c4071f994130aa9822b3b34f96b3a40c09492f674a16d8f2a6b825b"
+
+[versions]
+forge = "47.3.5"
+minecraft = "1.20.1"
+
+[options]
+acceptable-game-versions = []
