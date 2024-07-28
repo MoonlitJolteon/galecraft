@@ -1,0 +1,50 @@
+[
+    {
+        "mob": "mna:barkling",
+        "result": "deny"
+    },
+    {
+        "mob": "mna:chatterer",
+        "result": "deny"
+    },
+    {
+        "mob": "mna:demon_imp",
+        "result": "deny"
+    },
+    {
+        "mob": "mna:living_ward",
+        "result": "deny"
+    },
+    {
+        "mob": "mna:hulking_zombie",
+        "result": "deny"
+    },
+    {
+        "mob": "mna:lantern_wraith",
+        "result": "deny"
+    },
+    {
+        "mob": "mna:magmoo",
+        "result": "deny"
+    },
+    {
+        "mob": "mna:pixie",
+        "result": "deny"
+    },
+    {
+        "mob": "mna:mushroom_soldier",
+        "result": "deny"
+    },
+    {
+        "mob": "mna:skeleton_assassin",
+        "result": "deny"
+    },
+    {
+        "mob": "mna:spell_breaker",
+        "result": "deny"
+    },
+    {
+        "mob": "mna:witch_hunter",
+        "result": "deny"
+    },
+]
