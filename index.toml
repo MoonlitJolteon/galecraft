@@ -429,6 +429,11 @@ hash = "a238be3570123acec1a7dc1e98dac37aec1d95f9c436e8cf35afc7f6a3c27b57"
 metafile = true
 
 [[files]]
+file = "mods/longer-login-times.pw.toml"
+hash = "27778be66f8c825ab12d72c76cf39163c9e4b083a7956049ebda1d66ed2ad99c"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "3ce0ee2fd738c392ec888583533d0e35b808c6838ccc01a3e7c0068dffcd267b"
 metafile = true
