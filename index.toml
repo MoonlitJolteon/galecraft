@@ -516,6 +516,11 @@ hash = "3ad4e9731f8c3bcef4534354ffe2a9557f528ca453de4e6d52f2f560d273032a"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "dbe2c430bf58c773082d7fd9d1bee2d510a2e0c08f390f7465e819b6e321ae09"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
 metafile = true
