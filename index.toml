@@ -61,6 +61,11 @@ hash = "48ddfc4225936a611f738b22b22b48cdc5977715ab75c21ffaa4d36d536e1147"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "8341be7376192fe2cbffa3af36060ab8684adb2862efe478d697810cdd979e95"
+metafile = true
+
+[[files]]
 file = "mods/biomancy.pw.toml"
 hash = "5f9028a086ba59db8dba678c6144d87980856c8ce35379cc976084b8df25f58f"
 metafile = true
@@ -196,6 +201,11 @@ hash = "738b8b80e2f5b01f40f7c9c5b95fcdab8239b2a627d584dcd32ec534ec8fff1c"
 metafile = true
 
 [[files]]
+file = "mods/create-track-map.pw.toml"
+hash = "9c29a2143f86c5ff6224071809c3ae1495cf76584ec0b1486f95b6ac0716654c"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
 metafile = true
@@ -318,6 +328,16 @@ metafile = true
 [[files]]
 file = "mods/item-production-lib.pw.toml"
 hash = "15965344525e18aa5c36186572f69f3d597566fd22846401b892c8e5b8eeb0ae"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons.pw.toml"
+hash = "3a61d8d5097d96d41106c38bd40d17b8847c0d388219e6797ba29b187fd50411"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "c309e7c7ee8233136eca526d44d6c6b6a2411f11eb6fe0394e81df1dc6de355f"
 metafile = true
 
 [[files]]
@@ -551,6 +571,11 @@ hash = "08c2f56bec64aeb43ae003370351eaae0f1474387f9663765b281a25ba2049ce"
 metafile = true
 
 [[files]]
+file = "mods/vampires-delight.pw.toml"
+hash = "8dcd7a06f2eb50e2e122b30ff861b194363018210e9ba299a8627f0f805e2e8d"
+metafile = true
+
+[[files]]
 file = "mods/vampires-need-umbrellas.pw.toml"
 hash = "2905c695fcea5c12cd5bef42a2385fc55d67e0c62e99badc916e8c65f86b5fe6"
 metafile = true
@@ -558,6 +583,11 @@ metafile = true
 [[files]]
 file = "mods/vampirism-become-a-vampire.pw.toml"
 hash = "644ec0b391441f13b1f97b14d895bb14912ad02e1972456b4182fd63a8110dbb"
+metafile = true
+
+[[files]]
+file = "mods/vampirism-integrations.pw.toml"
+hash = "a329e20cdf225a125de0c8343e3c9fbdb1569829e58e0a208e3c274c04d98535"
 metafile = true
 
 [[files]]
