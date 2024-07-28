@@ -396,6 +396,11 @@ hash = "744bc3944f016f7481c017defb6f83a9deae5009e20c0f5f217443762356e32c"
 metafile = true
 
 [[files]]
+file = "mods/mobblocker.pw.toml"
+hash = "768046b8e1680f1bd3fd6033375eded9ef681da88ef325d483cf1a2f697a3e59"
+metafile = true
+
+[[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "2e225eaa7c71e9cdab2c03ae4a1962eec808beb8ef5b2de2fcc3e0ee2f820318"
 metafile = true
