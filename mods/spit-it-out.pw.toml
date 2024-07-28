@@ -1,0 +1,13 @@
+name = "Spit It Out"
+filename = "SpitItOut-1.20.1-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/h7WEOPvA/versions/M6jJnUJs/SpitItOut-1.20.1-1.0.1.jar"
+hash-format = "sha1"
+hash = "fe01e4f24e557bd5a51a45b97a9e4ec659c30504"
+
+[update]
+[update.modrinth]
+mod-id = "h7WEOPvA"
+version = "M6jJnUJs"

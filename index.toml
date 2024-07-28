@@ -579,6 +579,11 @@ hash = "dbe2c430bf58c773082d7fd9d1bee2d510a2e0c08f390f7465e819b6e321ae09"
 metafile = true
 
 [[files]]
+file = "mods/spit-it-out.pw.toml"
+hash = "cf7dba884f685d9807391fc3366fb0ff8e71181cf7e31f0ef9e4b387d04742f9"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
 metafile = true
