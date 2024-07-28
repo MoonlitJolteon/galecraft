@@ -546,11 +546,6 @@ hash = "3fbc69de193da4c2c430e676c65ab7a4c9ff2f601e33d81aa5951f9e50161244"
 metafile = true
 
 [[files]]
-file = "mods/untamedwilds.pw.toml"
-hash = "5f2012f607afe3130627a4298e4db6f8121ecfc11068de231b0f8c92ca8e87de"
-metafile = true
-
-[[files]]
 file = "mods/unusual-prehistory-forge.pw.toml"
 hash = "cfc07fdc98b9a2ca6d7b6422c29b639904961de5d49c502f33e811ed4bd1ca27"
 metafile = true
