@@ -311,6 +311,11 @@ hash = "e50f67e37775aca9ee5c5a1c91bd8e10846f8077e20ace467e4acb7892e1aca0"
 metafile = true
 
 [[files]]
+file = "mods/in-control.pw.toml"
+hash = "72c5a050f27f3538793dac87230372df8a79a9a94fd51dbc7d92a6d5c02f2a8f"
+metafile = true
+
+[[files]]
 file = "mods/interiors.pw.toml"
 hash = "d925d89ab420bc00b3c3c2b5db81a00b94ba309759f5c34fa308f681e5d02496"
 metafile = true
@@ -393,11 +398,6 @@ metafile = true
 [[files]]
 file = "mods/mana-and-artifice.pw.toml"
 hash = "744bc3944f016f7481c017defb6f83a9deae5009e20c0f5f217443762356e32c"
-metafile = true
-
-[[files]]
-file = "mods/mobblocker.pw.toml"
-hash = "768046b8e1680f1bd3fd6033375eded9ef681da88ef325d483cf1a2f697a3e59"
 metafile = true
 
 [[files]]
