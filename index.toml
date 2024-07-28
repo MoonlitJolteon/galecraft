@@ -176,11 +176,6 @@ hash = "0bbb0d5c211ddf6fd76fd602167b1f012dbfe56e72c5f2568ec1089cd930ece0"
 metafile = true
 
 [[files]]
-file = "mods/create-fuel-and-water-information.pw.toml"
-hash = "f648cca5aa99326fb49cc22b356019ba8bbce3680bc20ca29a50a173165fa6f4"
-metafile = true
-
-[[files]]
 file = "mods/create-oxidized.pw.toml"
 hash = "117efe92bfe09592dda7cc83589885ddf397771d64eab36e5120114140de29c7"
 metafile = true
