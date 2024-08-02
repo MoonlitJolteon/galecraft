@@ -124,6 +124,11 @@ hash = "48ddfc4225936a611f738b22b22b48cdc5977715ab75c21ffaa4d36d536e1147"
 metafile = true
 
 [[files]]
+file = "mods/berries-cherries-delight.pw.toml"
+hash = "4c98fe2523e579ed586b43efcc7d9ff13425da1fe8e3c8ab730a78564bb4640e"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "8341be7376192fe2cbffa3af36060ab8684adb2862efe478d697810cdd979e95"
 metafile = true
@@ -174,6 +179,11 @@ hash = "b5b9fb98a3c556205fec1e4a502b2065c596b86e13d6fdace4b2f209ca496257"
 metafile = true
 
 [[files]]
+file = "mods/cc-vs.pw.toml"
+hash = "a119c6e5a47fab7af4aabfb2248fbf2bf22a53548ab21f24335333ac385c641f"
+metafile = true
+
+[[files]]
 file = "mods/charm-of-undying.pw.toml"
 hash = "70203eccb52079014b1438e6488730cebb84e52aa0daf516211b4587a49bdb1e"
 metafile = true
@@ -191,6 +201,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d4512023e6eb03c5045365468de16cebe1aea7f14f6cb94902d72848f69c79ce"
+metafile = true
+
+[[files]]
+file = "mods/collectors-reap.pw.toml"
+hash = "007025f7acc11592e2bd6a9cd1a0cc41eba4ec55aaaa32ac865f19b275f8b513"
 metafile = true
 
 [[files]]
@@ -284,6 +299,16 @@ hash = "a8970be6634796012dc1b80fc0103479c23fb8630fce249997d9be55462162a6"
 metafile = true
 
 [[files]]
+file = "mods/croptopia-delight.pw.toml"
+hash = "91e10f832336fb24a9fd3516d3e42a92ced199e18bd5deafdf304869a85cfc61"
+metafile = true
+
+[[files]]
+file = "mods/croptopia.pw.toml"
+hash = "d8fde87d322c7d8e841658090d41c33120c72b4e6724af94a9fd3cc41603234c"
+metafile = true
+
+[[files]]
 file = "mods/cultural-delights.pw.toml"
 hash = "16b186ee61e77742ea2e40357b48dc4fc326baadb5f137356659b8ba2d991d92"
 metafile = true
@@ -349,8 +374,23 @@ hash = "e9e27cd59511408fa69068ab0ac740069a045b0bad138e59a7949528917a63a4"
 metafile = true
 
 [[files]]
+file = "mods/epherolib.pw.toml"
+hash = "fadaae47087ff0af2442bed6c9978eaa14f2926990738d81b5ce382d4c4a86fa"
+metafile = true
+
+[[files]]
 file = "mods/estrogen.pw.toml"
 hash = "a75e8dc70c7763a9dfbfdcb8756a7026dcfb8d74e1f72ebd238d62c55ba04ec0"
+metafile = true
+
+[[files]]
+file = "mods/eureka.pw.toml"
+hash = "4e7359568382843485cb04c9efffe03d9abf3cb287a8bc067e498429c72fba19"
+metafile = true
+
+[[files]]
+file = "mods/extreme_sound_muffler.pw.toml"
+hash = "d61475a05febdd00d9f001d57a4d94d3e45f759ef7251289bc20db0965279cde"
 metafile = true
 
 [[files]]
@@ -389,6 +429,11 @@ hash = "f4c54e38d0213f7e073ff49427f364431dbbe2f8d7b80e140e2da2b077ae306c"
 metafile = true
 
 [[files]]
+file = "mods/ice-and-fire-delight.pw.toml"
+hash = "02ab1ee66ad021e029c98709c4a5d918e144f7adef9f5b9e2382c62e80261306"
+metafile = true
+
+[[files]]
 file = "mods/ice-and-fire-dragons.pw.toml"
 hash = "3cf269299bc29be0e27b3ad11e50cdfa65944778d34d8ac5f191ffcf14e8f75f"
 metafile = true
@@ -401,6 +446,11 @@ metafile = true
 [[files]]
 file = "mods/in-control.pw.toml"
 hash = "72c5a050f27f3538793dac87230372df8a79a9a94fd51dbc7d92a6d5c02f2a8f"
+metafile = true
+
+[[files]]
+file = "mods/interactive.pw.toml"
+hash = "3fc2c0c66bc9eea83561f2b2bafd4b2358dfef382bff4a3cbca5f15c72ca01e7"
 metafile = true
 
 [[files]]
@@ -491,6 +541,11 @@ metafile = true
 [[files]]
 file = "mods/mana-and-artifice.pw.toml"
 hash = "744bc3944f016f7481c017defb6f83a9deae5009e20c0f5f217443762356e32c"
+metafile = true
+
+[[files]]
+file = "mods/miners-delight-plus.pw.toml"
+hash = "8a459a2534f09d18581fa154a84f428b1eaf1721fc8493ebe1e80df490e7502c"
 metafile = true
 
 [[files]]
@@ -679,6 +734,11 @@ hash = "d8d6daa50fdac46d3176520da691a94c6905465c164dd07458ac02338ae2f62f"
 metafile = true
 
 [[files]]
+file = "mods/valkyrien-relogs.pw.toml"
+hash = "bda6f397804d69c55962f212a47c40dd4b45d787b81a8b7ae26a5fa3efbbf3bf"
+metafile = true
+
+[[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "08c2f56bec64aeb43ae003370351eaae0f1474387f9663765b281a25ba2049ce"
 metafile = true
@@ -704,8 +764,18 @@ hash = "a329e20cdf225a125de0c8343e3c9fbdb1569829e58e0a208e3c274c04d98535"
 metafile = true
 
 [[files]]
+file = "mods/vegan-delight.pw.toml"
+hash = "65f02723b756b3cd81a4b1e9216f95ad97bcac3dae22a0f7da4b5990a84ea321"
+metafile = true
+
+[[files]]
 file = "mods/villagers-sell-animals.pw.toml"
 hash = "e5d223ee7169de5f7c84a9fcfd45386e017aa2b98e431e40b4640a8de76769cf"
+metafile = true
+
+[[files]]
+file = "mods/vs-addition.pw.toml"
+hash = "9b671a828f0976078cb12a22cdae59ef6fec314aa7d9520270f76369e6970ecf"
 metafile = true
 
 [[files]]

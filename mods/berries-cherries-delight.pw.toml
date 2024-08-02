@@ -1,0 +1,13 @@
+name = "Berries & Cherries Delight"
+filename = "berries_and_cherries-1.0.9-hotfix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9ded019af791c25fccb1dc48ee8dec6b40c7c220"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5126573
+project-id = 955743
