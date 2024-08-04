@@ -299,16 +299,6 @@ hash = "a8970be6634796012dc1b80fc0103479c23fb8630fce249997d9be55462162a6"
 metafile = true
 
 [[files]]
-file = "mods/croptopia-delight.pw.toml"
-hash = "91e10f832336fb24a9fd3516d3e42a92ced199e18bd5deafdf304869a85cfc61"
-metafile = true
-
-[[files]]
-file = "mods/croptopia.pw.toml"
-hash = "d8fde87d322c7d8e841658090d41c33120c72b4e6724af94a9fd3cc41603234c"
-metafile = true
-
-[[files]]
 file = "mods/cultural-delights.pw.toml"
 hash = "16b186ee61e77742ea2e40357b48dc4fc326baadb5f137356659b8ba2d991d92"
 metafile = true
@@ -494,6 +484,11 @@ hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
 metafile = true
 
 [[files]]
+file = "mods/laserio.pw.toml"
+hash = "9d85a210e77661032cfbcd930059096be6cfb6afd9abedde21bcdfa4e5b25e54"
+metafile = true
+
+[[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "bbba6ac677c4e82b397501e4db188fadcafc4dacff02b835e4b8a44ffcc9a3c7"
 metafile = true
@@ -541,6 +536,11 @@ metafile = true
 [[files]]
 file = "mods/miners-delight-plus.pw.toml"
 hash = "8a459a2534f09d18581fa154a84f428b1eaf1721fc8493ebe1e80df490e7502c"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "200dc9d52925894d95675e92cb306f0982a3af0cb0376722c4422bd530685b24"
 metafile = true
 
 [[files]]
@@ -616,6 +616,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "9c0743b63f9f6903ea23c39930a052efd2f2080d6a540e6d8c54f0b649475f94"
+metafile = true
+
+[[files]]
+file = "mods/powah-rearchitected.pw.toml"
+hash = "5edc7d4c1c98dfab922314c025c1e385914179966f700108d1c2c2457330f3d3"
 metafile = true
 
 [[files]]
