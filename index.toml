@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
+hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
 metafile = true
 
 [[files]]
@@ -611,6 +611,16 @@ metafile = true
 [[files]]
 file = "mods/pet-shop.pw.toml"
 hash = "cf0828d74794fc89b99703f20b0349eb1be0202320da6a067dff56940880e583"
+metafile = true
+
+[[files]]
+file = "mods/petrolpark.pw.toml"
+hash = "fd34d4af47c0ed6681e02eb99b4f995b9127d68ee13213b0673b9f92b7bc1149"
+metafile = true
+
+[[files]]
+file = "mods/petrols-parts.pw.toml"
+hash = "45117360758188a54a95e4d7c10cf703f87bf3038d52e5bbe6e67a5dd1469e0b"
 metafile = true
 
 [[files]]
